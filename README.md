@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Loan Data Analysis
+An EDA project that aims to extract key identifiers in predicting defaulters vs. non-defaulters in a given loan dataset using EDA techniques
 
 
 ## Table of Contents
@@ -7,8 +7,6 @@
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Provide general information about your project here.
